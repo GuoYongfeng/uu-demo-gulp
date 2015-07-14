@@ -1,0 +1,32 @@
+{
+	'0': {
+		name: '郭永峰',
+		options: '请假',
+		status: '通过',
+		info: {
+			datetime: '2015年7月14日',
+			detail: '3天'，
+			url: 'www.baidu.com'
+		}
+	},
+	'1': {
+		name: '郭永峰',
+		options: '报销',
+		status: '已完成',
+		info: {
+			datetime: '2015年7月14日',
+			detail: '50000'，
+			url: 'www.baidu.com'
+		}
+	},
+	'2': {
+		name: '郭永峰',
+		options: '外出',
+		status: '待审批',
+		info: {
+			datetime: '2015年7月14日',
+			detail: '3天'，
+			url: 'www.baidu.com'
+		}
+	},
+}
