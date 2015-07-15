@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var less = require('gulp-less');
-var notify = require('gulp-notify');
-var plumber = require('gulp-plumber');
+// var notify = require('gulp-notify');
+// var plumber = require('gulp-plumber');
 var imagemin = require('gulp-imagemin');
 var browserify = require('browserify');
 var source = require('vinyl-source-stream');
